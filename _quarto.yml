@@ -7,11 +7,11 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: Information
 
 format:
   html:
-    theme: Pulse
+    theme: cosmo
     css: styles.css
     toc: true
 
