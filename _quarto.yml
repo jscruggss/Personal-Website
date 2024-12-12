@@ -4,7 +4,7 @@ project:
 website:
   navbar:
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
 
