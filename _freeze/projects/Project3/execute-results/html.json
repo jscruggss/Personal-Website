@@ -1,8 +1,8 @@
 {
-  "hash": "4a96f1cbd359fbae013c22acc0bcef3e",
+  "hash": "bd099678238793af2d4ea033f7259b55",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: Project 3\ntoc: false\n---\n\n\n\nAHHHHHHHHH\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.5692804 0.7091249 0.4632268 0.5931421 0.9420950 0.0643233 0.9292779\n [8] 0.4479958 0.5740042 0.3156378\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: Project 3\nimage: images/shaq.jpeg\ntoc: false\n\nexecute:\n  freeze: auto\n---\n\n\n\n\nAHHHHHHHHH\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.4673539 0.2808385 0.7541229 0.8026740 0.8731002 0.1241580 0.6959595\n [8] 0.6338065 0.5012849 0.1236120\n```\n\n\n:::\n:::\n",
     "supporting": [
       "Project3_files"
     ],

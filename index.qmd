@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Jason Scruggs"
 about:
   template: jolla
   image: IMG_8140.jpg
@@ -13,14 +13,13 @@ about:
     - text: Email
       url: "mailto:jasonscrugg@gmail.com"
       icon: inbox-fill
-    - text: CV
-      url: CV.pdf
+
+
 
 toc: false
 ---
 
+Here is my [Resume](Resume2024.pdf)
+## Biography
 
 
-## Heading 1
-
-## Heading 2

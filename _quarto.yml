@@ -1,6 +1,8 @@
 project:
   type: website
-
+  resources: 
+     - Resume.qmd
+  
 website:
   navbar:
     left:
