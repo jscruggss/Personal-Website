@@ -1,9 +1,26 @@
 ---
-title: "About"
+title: "Home"
+about:
+  template: jolla
+  image: IMG_8140.jpg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/jason-scruggs-478539256/
+    - icon: github
+      text: Github
+      href: https://github.com/jscruggss
+    - text: Email
+      url: "mailto:jasonscrugg@gmail.com"
+      icon: inbox-fill
+    - text: CV
+      url: CV.pdf
+
+toc: false
 ---
 
-About this site
 
-```{r}
-6+6
-```
+
+## Heading 1
+
+## Heading 2

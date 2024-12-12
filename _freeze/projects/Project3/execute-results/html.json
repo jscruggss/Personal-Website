@@ -1,0 +1,17 @@
+{
+  "hash": "4a96f1cbd359fbae013c22acc0bcef3e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Project 3\ntoc: false\n---\n\n\n\nAHHHHHHHHH\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.5692804 0.7091249 0.4632268 0.5931421 0.9420950 0.0643233 0.9292779\n [8] 0.4479958 0.5740042 0.3156378\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "Project3_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

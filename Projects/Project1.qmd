@@ -1,0 +1,10 @@
+---
+title: Project 1
+toc: false
+---
+
+Some complicated stats project
+
+```{r}
+runif(10)
+```
