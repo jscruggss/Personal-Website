@@ -1,10 +1,15 @@
 ---
-title: Project 1
+title: Investigation of US Strikes in Yemen
 toc: false
+format: html
+image: images/Yemen.jpg
 ---
 
-Some complicated stats project
+## [Investigating U.S. Strikes in Yemen and Their Civilian Impact](USStrikes.pdf)
 
-```{r}
-runif(10)
-```
+We conducted this research to understand the civilian impact of U.S. military strikes in Yemen, driven by the need to quantify harm and assess trends in targeting precision. Using data from 2009 to 2019, we analyzed 324 recorded incidents, focusing on civilian death tolls, strike classifications ("confirmed" vs. "possible"), and geographic patterns.
+
+Our methods included exploratory data analysis, hypothesis testing, and geospatial analysis. Key findings showed that strikes earlier in the decade were significantly more lethal, with 69% of injuries and 54% of deaths occurring by 2012. "Possible" strikes had greater variability in civilian casualties, raising transparency concerns. Regions like Abyan, rich in resources, saw higher casualty rates, while urban areas like Sanaa were less affected.
+
+This research underscores the ethical challenges of military interventions and the urgent need for precise targeting and transparent reporting to minimize civilian harm.
+

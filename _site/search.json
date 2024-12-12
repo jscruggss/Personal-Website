@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "Projects/Project3.html",
-    "href": "Projects/Project3.html",
-    "title": "Project 3",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jason Scruggs",
     "section": "",
-    "text": "AHHHHHHHHH\n\nrunif(10)\n\n [1] 0.4673539 0.2808385 0.7541229 0.8026740 0.8731002 0.1241580 0.6959595\n [8] 0.6338065 0.5012849 0.1236120"
+    "text": "Hi, I’m Jason Scruggs! I’m a senior at UCLA studying Statistics and Data Science with a minor in Art History. I’m passionate about finding stories in data and exploring how we can use those insights to make smarter decisions.\nI’ve been lucky to work with some amazing teams, from helping LA28 shape their marketing strategies to diving into production analytics at Heritage Cabinets. On campus, I get to combine my love for UCLA with storytelling as a Lead Tour Guide, sharing the university with thousands of visitors.\nOutside of work and school, I keep busy with surfing, writing and performing comedy, and planning events like a bike-powered music festival. Whether it’s through data, creativity, or community, I’m always looking for ways to connect and make an impact.\nHere is my Resume"
   },
   {
-    "objectID": "Projects/Project1.html",
-    "href": "Projects/Project1.html",
-    "title": "Project 1",
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Jason Scruggs",
     "section": "",
-    "text": "Some complicated stats project\n\nrunif(10)\n\n [1] 0.3843003 0.2962804 0.6147857 0.3452702 0.8884909 0.5954070 0.3232480\n [8] 0.8424316 0.2399706 0.1863859"
+    "text": "Hi, I’m Jason Scruggs! I’m a senior at UCLA studying Statistics and Data Science with a minor in Art History. I’m passionate about finding stories in data and exploring how we can use those insights to make smarter decisions.\nI’ve been lucky to work with some amazing teams, from helping LA28 shape their marketing strategies to diving into production analytics at Heritage Cabinets. On campus, I get to combine my love for UCLA with storytelling as a Lead Tour Guide, sharing the university with thousands of visitors.\nOutside of work and school, I keep busy with surfing, writing and performing comedy, and planning events like a bike-powered music festival. Whether it’s through data, creativity, or community, I’m always looking for ways to connect and make an impact.\nHere is my Resume"
   },
   {
     "objectID": "Projects/Project2.html",
     "href": "Projects/Project2.html",
-    "title": "Project 2",
+    "title": "Clinical Study on Islanders to Determine the Effect of Various Forms of Nicotine Products on Short-Term Memory Loss",
     "section": "",
-    "text": "This is my second project"
+    "text": "Motivation and Objectives The resurgence of nicotine use and its potential effects on short-term memory motivated this study. With conflicting results from prior research—some suggesting nicotine enhances memory, while others indicate no effect or negative consequences—our study aimed to clarify nicotine’s impact on immediate recall. We also investigated whether different forms of nicotine administration (cigarettes, inhalers, and tablets) yielded varying effects. The ultimate goal was to contribute to public health knowledge, aiding both prevention and treatment of nicotine addiction.\nMethods and Experimental Design We employed a randomized complete block design with one treatment factor (type of nicotine administration: cigarettes, inhalers, tablets, or control) and three blocking variables (age, sex, and island of origin). Participants memorized a list of 20 words, took the assigned nicotine treatment, and then completed a second memory test. This difference in memory test scores served as the response variable. By blocking on demographic factors, we aimed to reduce variability and improve the precision of our results. The study included 268 participants, exceeding the calculated sample size needed for adequate statistical power.\nStatistical Analysis A one-way ANOVA was performed to determine whether nicotine treatments significantly influenced short-term memory. The residual diagnostics confirmed the model’s appropriateness, showing normality and homoscedasticity of errors. Boxplots were used to visualize the effects of treatments and blocking variables on memory scores.\nResults The results revealed no significant effect of nicotine treatments on short-term memory. The p-values for all treatments and blocking variables (age, sex, and island of origin) exceeded 0.4, and the R² value was a negligible 0.017. These findings were consistent across diagnostic plots and boxplots, which showed no meaningful differences in memory test scores among treatment groups or blocking variables.\nDiscussion and Future Directions Our findings suggest that nicotine, regardless of its form, does not significantly impact short-term memory. This aligns with some prior studies but contradicts others, highlighting the need for further research. Limitations of our study include the use of a single memory test, potential variability in nicotine metabolism among participants, and uncontrolled external factors such as the time of day tests were administered. Future research should employ a broader range of cognitive assessments and incorporate biomarkers to better understand nicotine’s physiological effects.\nBy addressing these limitations, future studies can build on our findings to develop a more nuanced understanding of nicotine’s role in cognitive processes, ultimately informing public health strategies."
+  },
+  {
+    "objectID": "Projects/Project2.html#nicotine-vs-short-term-memory",
+    "href": "Projects/Project2.html#nicotine-vs-short-term-memory",
+    "title": "Clinical Study on Islanders to Determine the Effect of Various Forms of Nicotine Products on Short-Term Memory Loss",
+    "section": "",
+    "text": "Motivation and Objectives The resurgence of nicotine use and its potential effects on short-term memory motivated this study. With conflicting results from prior research—some suggesting nicotine enhances memory, while others indicate no effect or negative consequences—our study aimed to clarify nicotine’s impact on immediate recall. We also investigated whether different forms of nicotine administration (cigarettes, inhalers, and tablets) yielded varying effects. The ultimate goal was to contribute to public health knowledge, aiding both prevention and treatment of nicotine addiction.\nMethods and Experimental Design We employed a randomized complete block design with one treatment factor (type of nicotine administration: cigarettes, inhalers, tablets, or control) and three blocking variables (age, sex, and island of origin). Participants memorized a list of 20 words, took the assigned nicotine treatment, and then completed a second memory test. This difference in memory test scores served as the response variable. By blocking on demographic factors, we aimed to reduce variability and improve the precision of our results. The study included 268 participants, exceeding the calculated sample size needed for adequate statistical power.\nStatistical Analysis A one-way ANOVA was performed to determine whether nicotine treatments significantly influenced short-term memory. The residual diagnostics confirmed the model’s appropriateness, showing normality and homoscedasticity of errors. Boxplots were used to visualize the effects of treatments and blocking variables on memory scores.\nResults The results revealed no significant effect of nicotine treatments on short-term memory. The p-values for all treatments and blocking variables (age, sex, and island of origin) exceeded 0.4, and the R² value was a negligible 0.017. These findings were consistent across diagnostic plots and boxplots, which showed no meaningful differences in memory test scores among treatment groups or blocking variables.\nDiscussion and Future Directions Our findings suggest that nicotine, regardless of its form, does not significantly impact short-term memory. This aligns with some prior studies but contradicts others, highlighting the need for further research. Limitations of our study include the use of a single memory test, potential variability in nicotine metabolism among participants, and uncontrolled external factors such as the time of day tests were administered. Future research should employ a broader range of cognitive assessments and incorporate biomarkers to better understand nicotine’s physiological effects.\nBy addressing these limitations, future studies can build on our findings to develop a more nuanced understanding of nicotine’s role in cognitive processes, ultimately informing public health strategies."
+  },
+  {
+    "objectID": "Projects/Project1.html",
+    "href": "Projects/Project1.html",
+    "title": "Investigation of US Strikes in Yemen",
+    "section": "",
+    "text": "We conducted this research to understand the civilian impact of U.S. military strikes in Yemen, driven by the need to quantify harm and assess trends in targeting precision. Using data from 2009 to 2019, we analyzed 324 recorded incidents, focusing on civilian death tolls, strike classifications (“confirmed” vs. “possible”), and geographic patterns.\nOur methods included exploratory data analysis, hypothesis testing, and geospatial analysis. Key findings showed that strikes earlier in the decade were significantly more lethal, with 69% of injuries and 54% of deaths occurring by 2012. “Possible” strikes had greater variability in civilian casualties, raising transparency concerns. Regions like Abyan, rich in resources, saw higher casualty rates, while urban areas like Sanaa were less affected.\nThis research underscores the ethical challenges of military interventions and the urgent need for precise targeting and transparent reporting to minimize civilian harm."
+  },
+  {
+    "objectID": "Projects/Project1.html#investigating-u.s.-strikes-in-yemen-and-their-civilian-impact",
+    "href": "Projects/Project1.html#investigating-u.s.-strikes-in-yemen-and-their-civilian-impact",
+    "title": "Investigation of US Strikes in Yemen",
+    "section": "",
+    "text": "We conducted this research to understand the civilian impact of U.S. military strikes in Yemen, driven by the need to quantify harm and assess trends in targeting precision. Using data from 2009 to 2019, we analyzed 324 recorded incidents, focusing on civilian death tolls, strike classifications (“confirmed” vs. “possible”), and geographic patterns.\nOur methods included exploratory data analysis, hypothesis testing, and geospatial analysis. Key findings showed that strikes earlier in the decade were significantly more lethal, with 69% of injuries and 54% of deaths occurring by 2012. “Possible” strikes had greater variability in civilian casualties, raising transparency concerns. Regions like Abyan, rich in resources, saw higher casualty rates, while urban areas like Sanaa were less affected.\nThis research underscores the ethical challenges of military interventions and the urgent need for precise targeting and transparent reporting to minimize civilian harm."
   },
   {
     "objectID": "Resume/LICENSE.html",
@@ -53,20 +74,6 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "This is my project listing\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nProject 1\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 3\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jason Scruggs",
-    "section": "",
-    "text": "Here is my Resume ## Biography"
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Jason Scruggs",
-    "section": "",
-    "text": "resume"
+    "text": "Investigation of US Strikes in Yemen\n\n\n\n\n\n\n\n\n\n\n\n\n\nClinical Study on Islanders to Determine the Effect of Various Forms of Nicotine Products on Short-Term Memory Loss\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

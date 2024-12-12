@@ -18,7 +18,6 @@ listing:
 
 
 ---
-This is my project listing
 
 :::project-listing
 :::
