@@ -16,14 +16,14 @@
   {
     "objectID": "Projects/Project2.html",
     "href": "Projects/Project2.html",
-    "title": "Clinical Study on Islanders to Determine the Effect of Various Forms of Nicotine Products on Short-Term Memory Loss",
+    "title": "Clinical Study to Determine the Effect of Nicotine Products on Short-Term Memory Loss",
     "section": "",
     "text": "Motivation and Objectives The resurgence of nicotine use and its potential effects on short-term memory motivated this study. With conflicting results from prior research—some suggesting nicotine enhances memory, while others indicate no effect or negative consequences—our study aimed to clarify nicotine’s impact on immediate recall. We also investigated whether different forms of nicotine administration (cigarettes, inhalers, and tablets) yielded varying effects. The ultimate goal was to contribute to public health knowledge, aiding both prevention and treatment of nicotine addiction.\nMethods and Experimental Design We employed a randomized complete block design with one treatment factor (type of nicotine administration: cigarettes, inhalers, tablets, or control) and three blocking variables (age, sex, and island of origin). Participants memorized a list of 20 words, took the assigned nicotine treatment, and then completed a second memory test. This difference in memory test scores served as the response variable. By blocking on demographic factors, we aimed to reduce variability and improve the precision of our results. The study included 268 participants, exceeding the calculated sample size needed for adequate statistical power.\nStatistical Analysis A one-way ANOVA was performed to determine whether nicotine treatments significantly influenced short-term memory. The residual diagnostics confirmed the model’s appropriateness, showing normality and homoscedasticity of errors. Boxplots were used to visualize the effects of treatments and blocking variables on memory scores.\nResults The results revealed no significant effect of nicotine treatments on short-term memory. The p-values for all treatments and blocking variables (age, sex, and island of origin) exceeded 0.4, and the R² value was a negligible 0.017. These findings were consistent across diagnostic plots and boxplots, which showed no meaningful differences in memory test scores among treatment groups or blocking variables.\nDiscussion and Future Directions Our findings suggest that nicotine, regardless of its form, does not significantly impact short-term memory. This aligns with some prior studies but contradicts others, highlighting the need for further research. Limitations of our study include the use of a single memory test, potential variability in nicotine metabolism among participants, and uncontrolled external factors such as the time of day tests were administered. Future research should employ a broader range of cognitive assessments and incorporate biomarkers to better understand nicotine’s physiological effects.\nBy addressing these limitations, future studies can build on our findings to develop a more nuanced understanding of nicotine’s role in cognitive processes, ultimately informing public health strategies."
   },
   {
     "objectID": "Projects/Project2.html#nicotine-vs-short-term-memory",
     "href": "Projects/Project2.html#nicotine-vs-short-term-memory",
-    "title": "Clinical Study on Islanders to Determine the Effect of Various Forms of Nicotine Products on Short-Term Memory Loss",
+    "title": "Clinical Study to Determine the Effect of Nicotine Products on Short-Term Memory Loss",
     "section": "",
     "text": "Motivation and Objectives The resurgence of nicotine use and its potential effects on short-term memory motivated this study. With conflicting results from prior research—some suggesting nicotine enhances memory, while others indicate no effect or negative consequences—our study aimed to clarify nicotine’s impact on immediate recall. We also investigated whether different forms of nicotine administration (cigarettes, inhalers, and tablets) yielded varying effects. The ultimate goal was to contribute to public health knowledge, aiding both prevention and treatment of nicotine addiction.\nMethods and Experimental Design We employed a randomized complete block design with one treatment factor (type of nicotine administration: cigarettes, inhalers, tablets, or control) and three blocking variables (age, sex, and island of origin). Participants memorized a list of 20 words, took the assigned nicotine treatment, and then completed a second memory test. This difference in memory test scores served as the response variable. By blocking on demographic factors, we aimed to reduce variability and improve the precision of our results. The study included 268 participants, exceeding the calculated sample size needed for adequate statistical power.\nStatistical Analysis A one-way ANOVA was performed to determine whether nicotine treatments significantly influenced short-term memory. The residual diagnostics confirmed the model’s appropriateness, showing normality and homoscedasticity of errors. Boxplots were used to visualize the effects of treatments and blocking variables on memory scores.\nResults The results revealed no significant effect of nicotine treatments on short-term memory. The p-values for all treatments and blocking variables (age, sex, and island of origin) exceeded 0.4, and the R² value was a negligible 0.017. These findings were consistent across diagnostic plots and boxplots, which showed no meaningful differences in memory test scores among treatment groups or blocking variables.\nDiscussion and Future Directions Our findings suggest that nicotine, regardless of its form, does not significantly impact short-term memory. This aligns with some prior studies but contradicts others, highlighting the need for further research. Limitations of our study include the use of a single memory test, potential variability in nicotine metabolism among participants, and uncontrolled external factors such as the time of day tests were administered. Future research should employ a broader range of cognitive assessments and incorporate biomarkers to better understand nicotine’s physiological effects.\nBy addressing these limitations, future studies can build on our findings to develop a more nuanced understanding of nicotine’s role in cognitive processes, ultimately informing public health strategies."
   },
@@ -74,6 +74,55 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "Investigation of US Strikes in Yemen\n\n\n\n\n\n\n\n\n\n\n\n\n\nClinical Study on Islanders to Determine the Effect of Various Forms of Nicotine Products on Short-Term Memory Loss\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Investigation of US Strikes in Yemen\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Clinical Study on Determine the Effect of Nicotine Products on Short-Term Memory Loss\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Relevant Courses",
+    "section": "",
+    "text": "Statistics Courses\n\nStats 10 - Statistical Reasoning\n\n\nStats 20 - Statistical Programming with R\n\n\nStats 100A - Introduction to Probability\n\n\nStats 100B - Mathematical Statistics\n\n\nStats 100C - Linear Models\n\n\nStats 101A - Data Analysis and Regression\n\n\nStats 101B - Design and Analysis of Experiment\n\n\nStats 101C - Statistical Models and Data Mining\n\n\nStats 102A - Computational Statistics with R\n\n\nStats 102B - Optimization for Statistics\n\n\nStats 102C - Monte Carlo Methods\n\n\nStats 140XP - Practice of Statistical Consulting\n\n\nStats 141XP - Practice of Statistical Consulting\n\n\nStats C155 - Applied Sampling\n\n\nStats C173 - Applied Geostatistics"
+  },
+  {
+    "objectID": "courses.html#statistics-courses",
+    "href": "courses.html#statistics-courses",
+    "title": "Relevant Courses",
+    "section": "",
+    "text": "Stats 10 Stats 20 Stats 100A Stats 101A Stats 100B Stats 102A Stats 100C Stats 101B Stats 102B Stats 101C Stats 102C Stats 140XP"
+  },
+  {
+    "objectID": "courses.html#mathmatics-courses",
+    "href": "courses.html#mathmatics-courses",
+    "title": "Relevant Courses",
+    "section": "Mathmatics Courses",
+    "text": "Mathmatics Courses"
+  },
+  {
+    "objectID": "Projects/Project1.html#where-did-the-attacks-occur",
+    "href": "Projects/Project1.html#where-did-the-attacks-occur",
+    "title": "Investigation of US Strikes in Yemen",
+    "section": "5.1 Where did the attacks occur?",
+    "text": "5.1 Where did the attacks occur?\nWe conducted an analysis of the attack locations for the major provinces in Yemen. Our findings were concurrent with historical context about the war.\n\nThe province of Abyan and it’s capital city of Zinjibar has been a highly contested territory over the years. Abyan serves as a key supply route for oil and gas, which makes it an appealing region for either party to control. Additionally, it is also very natural resource rich. In this region, there is also a constant power vacuum created by the ever-changing local government.\n\n\n\n\nMap of Yemen\n\n\n\nSanaa is the largest city (and capital) in Yemen with almost 2 million residents is Sanna but has the lowest amount of civilian casualties. The Houthis have fortified the city, making it a strategic stronghold. Although Sanaa has been targeted by airstrikes, its status as a key base for the Houthis may have resulted in more calculated attacks to avoid excessive civilian casualties. Additionally, there is the possibiility that being the capital city, it received better aid and attention compared to other regions.\n\n\n\n\nCivilian deaths by region and year"
+  },
+  {
+    "objectID": "Projects/Project1.html#when-did-the-damage-occur",
+    "href": "Projects/Project1.html#when-did-the-damage-occur",
+    "title": "Investigation of US Strikes in Yemen",
+    "section": "5.2 When did the damage occur",
+    "text": "5.2 When did the damage occur\nBy 2012, the majority of injuries occurred (69%) and a similar trend was observed in civilian deaths (54%). However, attacks took the longest to accumulate, reaching only 35%. Our data suggest that early strikes were significantly more lethal. This is potentially due to the ebb and flow of the war, along actions taken by the international community to slow down the war.\n\n\n\nCumulative density timeline of war casualties"
+  },
+  {
+    "objectID": "Projects/Project1.html#does-the-type-of-attack-make-a-difference-in-injuries-and-deaths",
+    "href": "Projects/Project1.html#does-the-type-of-attack-make-a-difference-in-injuries-and-deaths",
+    "title": "Investigation of US Strikes in Yemen",
+    "section": "5.3 Does the type of attack make a difference in injuries and deaths?",
+    "text": "5.3 Does the type of attack make a difference in injuries and deaths?\nNon-airstrike attacks averaged more civilian deaths, but were heavily rightskewed. We conducted a two-sample t-test to determine whether the mean injuries and deaths of civilians were impacted based on the type of attack. The test yielded a p-value &gt; 0.05 and showed no significant difference in deaths between airstrikes and non-airstrikes. It is good to note that cruise missile attacks caused the most injuries and deaths per incident as well as drone strikes being a common feature across various attack types, showing a possible dominance/preference in air-based operations.\n\n\n\nAirstrike vs Non-Airstrike Death Tally"
+  },
+  {
+    "objectID": "Projects/Project1.html#does-confirmed-or-possible-classification-increase-variance-of-the-kill-range",
+    "href": "Projects/Project1.html#does-confirmed-or-possible-classification-increase-variance-of-the-kill-range",
+    "title": "Investigation of US Strikes in Yemen",
+    "section": "5.4 Does “Confirmed” or “Possible” Classification increase variance of the kill range?",
+    "text": "5.4 Does “Confirmed” or “Possible” Classification increase variance of the kill range?\nInterested on whether the ”Confirmed” and ”Possible” classifications had a difference in the variance of the kill range, we performed an F-test to test the variances between the two groups. The null hypothesis for this test assumes that the variances in the range of the death counts in these two groups are equal, while the alternative hypothesis posits that the variances differ. The range of deaths was calculated using the maximum minus the minimum deaths for each recorded attack. The test yielded an F-statistic of 0.1348 and a corresponding p-value of 2.2e^16, which indicated that there is sufficient statistical evidence to reject the null hypothesis. The observed difference in variances between the ”confirmed” and ”possible” classifications should be attributed to an inherent difference in the variability of death counts between the two groups instead of random variation.\n\n6 Conclusion\nOur analysis revealed that U.S. strikes that were carried out earlier in the decade were statistically more deadly for civilians, despite not being the primary targets of conflict. Furthermore, the focus of the strikes was on capturing land for the interested parties and gaining power, which in this case was Al-Qaeda. Deeper analysis and additional data would be required to uncover potential motives."
   }
 ]

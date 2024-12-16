@@ -1,28 +1,117 @@
 ---
-title:  Clinical Study on Islanders to Determine the Effect of Various Forms of Nicotine Products on Short-Term Memory Loss
-toc: false
+title: "A Clinical Study on Determine the Effect of Nicotine Products on Short-Term Memory Loss"
+authors: Jason Scruggs, Milla Nielsen, Sarina Doss
+date: "June 15th, 2024"
+format: pdf
 image: images/Cigarette.jpeg
 ---
 
-## [Nicotine vs Short Term Memory](Finalpaper102b.pdf)
-
-Motivation and Objectives
-The resurgence of nicotine use and its potential effects on short-term memory motivated this study. With conflicting results from prior research—some suggesting nicotine enhances memory, while others indicate no effect or negative consequences—our study aimed to clarify nicotine's impact on immediate recall. We also investigated whether different forms of nicotine administration (cigarettes, inhalers, and tablets) yielded varying effects. The ultimate goal was to contribute to public health knowledge, aiding both prevention and treatment of nicotine addiction.
-
-Methods and Experimental Design
-We employed a randomized complete block design with one treatment factor (type of nicotine administration: cigarettes, inhalers, tablets, or control) and three blocking variables (age, sex, and island of origin). Participants memorized a list of 20 words, took the assigned nicotine treatment, and then completed a second memory test. This difference in memory test scores served as the response variable. By blocking on demographic factors, we aimed to reduce variability and improve the precision of our results. The study included 268 participants, exceeding the calculated sample size needed for adequate statistical power.
-
-Statistical Analysis
-A one-way ANOVA was performed to determine whether nicotine treatments significantly influenced short-term memory. The residual diagnostics confirmed the model's appropriateness, showing normality and homoscedasticity of errors. Boxplots were used to visualize the effects of treatments and blocking variables on memory scores.
-
-Results
-The results revealed no significant effect of nicotine treatments on short-term memory. The p-values for all treatments and blocking variables (age, sex, and island of origin) exceeded 0.4, and the R² value was a negligible 0.017. These findings were consistent across diagnostic plots and boxplots, which showed no meaningful differences in memory test scores among treatment groups or blocking variables.
-
-Discussion and Future Directions
-Our findings suggest that nicotine, regardless of its form, does not significantly impact short-term memory. This aligns with some prior studies but contradicts others, highlighting the need for further research. Limitations of our study include the use of a single memory test, potential variability in nicotine metabolism among participants, and uncontrolled external factors such as the time of day tests were administered. Future research should employ a broader range of cognitive assessments and incorporate biomarkers to better understand nicotine's physiological effects.
-
-By addressing these limitations, future studies can build on our findings to develop a more nuanced understanding of nicotine's role in cognitive processes, ultimately informing public health strategies.
 
 
+### Abstract
+
+The United States is seeing a resurgence in nicotine use in the last decade. Millions of Americans daily suffer from nicotine addictions that can have potentially unforeseen effects on memory. The study of its effects on short term memory could help those struggling with the addition better understand the side effects involved with continued use. We propose that nicotine could have an effect on immediate recall and attempt to study this effect using a randomized complete block design and a one-way ANOVA for testing significance. We used a “pseudo” random sample of Islanders to make our conclusions as we can not draw a fully random sample of our Islanders. Our study determined that there was no significant effect of nicotine on immediate recall and therefore more studies would have to be completed to fully understand the effects of nicotine on memory.
+
+### Introduction
 
 
+Americans across the country are struggling with nicotine addictions daily. In 2020 8.5% of Americans were struggling with this disease affecting almost 23.6 million. This disease affects those as young as 12 and could potentially have unforeseen effects to memory1. As new nicotine products rise in popularity such as electronic cigarettes and vapes, and the age of the audience for these products becomes lower it becomes more imperative that research into the effects is studied. While there are many research studies currently being conducted, one where research seems to be lacking is nicotine on memory. Moreover, the current studies regarding the effects of nicotine on memory are conflicting. A study conducted by Kumari in 2003 showed that nicotine had a positive effect on short term memory. Stating that “studies demonstrated that nicotine enhances memory. In particular, nicotine facilitates short-term or working memory.” (Kumari et al., 2003)2. However this might not be telling the full story.
+
+Another study conducted by the NIH spoke to the contrary. This study stated that nicotine had no effect on problem-solving and in fact had a negative effect on immediate recall3. With varied results from different studies it becomes even more important to conduct this research to establish what the true effects of nicotine are. This research could be used in prevention of nicotine addiction and help those struggling with dependency understand their consequences of nicotine use. If nicotine is found to have a positive effect on memory perhaps further research could be conducted to see if it could be used as a treatment for those struggling with memory loss.
+
+Studying memory is important to human development as memory is an integral part of the human condition. An article by Harvard argues that memory is crucial to human cognition as it gives a framework for actions in the present4. If nicotine could in fact be negatively impacting memory it could have consequences on human cognition for the millions of Americans that are struggling with nicotine dependency. That is why studies in this regard are incredibly important.
+This paper will attempt to research the following research questions. What effects will nicotine have on short term memory of the islanders? Will different forms of nicotine have different effects? Will these effects be significant? If the effects of types of nicotine are significantly different from each other, which levels are different? Answering these questions will help to determine the true effect of nicotine on memory and which previously conducted studies had accurate results. Additionally these questions will help us examine where future studies need to be conducted in order to make definitive conclusions about nicotine and memory interactions.
+
+### Methods
+
+## 3.1 Participants
+
+In order to get an even representation from each city, data was pulled from one individual from each of the first 10 households in every city. If a household declined to participate in the study the next home would be looked at until data was gathered from 10 homes in each town. There were no restrictions placed on previous or current nicotine dependency or health conditions. An age restriction was placed on participants, 18 and older, to ensure that minors were not being given a potentially harmful and addictive drug. While the randomized complete block design calls for random sampling, you are not able to randomly choose participants on the Islands and therefore this study is not entirely random, but the assignment of treatments was random.
+
+## 3.2 Design
+
+In this study we will use a One-Way Anova randomized complete block design with one treatment factor and three blocking factors. The nicotine content in a cigarette is 6.17 to 12.65 mg5 (based on a study from the NIH), Control has 0 mg, Tablet is 2mg, and Inhaler is also 2mg. The difference in Memory Test Vocabulary scores (Looking at 20 words, waiting 1 min, how many can be recalled in 30 secs), from before the administration to after the administration of nicotine is the response variable. The variables are outlined below.
+
+![](designtable1.png)
+
+The design diagram is outlined below:
+
+![](designtable2.png)
+
+In this study, the effects of nicotine on short-term memory are investigated, utilizing nicotine tablets, nicotine inhalers, cigarettes, and a control group. Blocking variables based on age, sex, and island of origin are incorporated, without considering interaction effects. The choice to focus on nicotine comes from mixed results from previously published studies. By employing different administration methods and considering various demographic factors, the aim is to assess the relationship between nicotine exposure and short-term memory performance. Grouping participants into blocks based on potential sources of variability increases the accuracy of the estimates. This is because it reduces the variability within each block, making it easier to detect differences between the nicotine treatment groups if they exist.
+
+## 3.3 Instruments
+
+A memory test will be conducted on the islanders in which they will be asked to memorize a list of 20 words and recite them back after one minute. They will then be administered a dosage of nicotine in the form of Nicotine Inhaler, Nicotine Tablet, or Cigarette. Once the administration of nicotine has had enough time to get into the bloodstream (10 seconds for inhalation and 20 minutes for ingestion), the islanders will be administered another Vocabulary Memory Test.
+
+## 3.3 Procedure
+
+Step 1: Sample the first 10 Islanders (one from each household, skipping houses if a person declines) and recording their information (name, island, age, sex).
+Step 2: Measure each Islanders Memory Test Score and record.
+Step 3: Randomly assign each Islander into groups (already divided by block) into the four different treatment groups for studying (give each Islander a number and use R to randomize the list, assigning the first quarter to the first treatment, second to the second and so on). The different groups are:
+1) Control, the subject is given nothing in between their first and second measurement of the Memory Test Score
+2) Cigarette, the subject is asked to smoke a cigarette after their first Memory Test Score measurement and wait 20 seconds after smoking the cigarette before taking the test to allow the nicotine to absorb into the bloodstream6.
+3) Tablet, the subject is asked to take a nicotine tablet before completing their second Memory Test and wait 20 mins before taking the test to allow the tablet to absorb into the bloodstream7.
+4) Inhaler, the subject is asked to use a nicotine inhaler after their first Memory Test Score measurement and wait 20 seconds after using the inhaler before taking the test to allow the nicotine to absorb into the bloodstream6.
+Step 4: Have each Islander take the treatment assigned to them in the previous step. Step 5: Measure each Islanders Memory Test Score and record.
+Step 6: For each Islander, compute the difference in Memory Test Score before and after treatment.
+
+### 4 Data Analysis
+
+## 4.1 Type of Statistical Analysis
+
+An ANOVA was conducted on the sample using R. An F-Test was used to determine if there is any true significance between nicotine administration and short-term memory effects. The control group serves as a baseline, taking the memory exam twice with no nicotine involved. This baseline is then compared to the treatment groups: Nicotine Inhaler, Nicotine Tablet, and Cigarette.
+
+## 4.2 Sample Size Determination
+
+Using GPower, it was determined that a sample size of at least 183 subjects is needed in this design. The commonly used settings were used in determining sample size, an effect size of 0.25, significance level of 0.05, and power of 0.8. In this study there were a total of 268 subjects with 67 participants in each of the groups: Control, Tablet, Cigarette, Inhaler. This increase in sample size resulted in a power of approximately 0.94. The results from GPower is outlined below.
+
+![](GPower.png)
+
+### 5 Results
+
+
+## 5.1 ANOVA Analysis
+
+![Two way Anova with Blocking Variables. With all of the p-values being over 0.4, it can be seen that there is no significance from any of the treatments (Nicotine Inhaler, Nicotine Tablet, Cigarette, and Control) or the blocking variables (Island, Sex, and Age). This indicates that the treatment is not statistically significant, and the blocking variables could be disregarded if the experiment were conducted again. Additionally the R2 value is 0.017.](cigaretteANOVA.png)
+
+## 5.2 Residual Diagnostics
+
+![Summary Plots of Residuals. All four diagnostic plots suggest that the linear model is the correct model for this experiment. These plots indicate normality of residuals and homoscedasticity.](cigaretterResidualPlots.png)
+
+## 5.3 Box Plots
+
+![Box plots of Blocking Variables. These boxplots can be used to compare the difference in vocabulary memory scores based on Sex, Age, and Island of Origin. The center line represents the median, and the block represents the middle two quartiles of the data. It can be observed that there is not much of an effect between any of the blocking variables that would visually indicate a statistically significant difference.](cigaretteboxplot1.png)
+
+![Box plot of Treatment vs Difference in Memory test score. Once again the center line is the median for each of these boxes and the box itself represents the middle 2 quartiles of our data. From this plot we can see that there is no significant variation between the medians or ranges of our data based on the administration of nicotine.](cigaretteboxplot2.png)
+
+
+### Discussion
+
+The purpose of this study was to investigate the effects of nicotine on short-term memory and to determine if different forms of administration would yield different results. The goal was to provide direct evidence to support or refute the mixed claims from various experiments testing this cause-and-effect relationship.
+
+It was calculated that with an effect size of 0.25, an error probability of 0.05, and 3 degrees of freedom, a sample size of 183 individuals was needed to achieve a power of 0.8 or higher. The study sampled 268 individuals, resulting in a power of 0.9. The experiment found that there was no impact of any of the treatments (nicotine tablets, nicotine inhalers, and cigarettes) on short-term memory. Additionally, no significant differences were found between short-term memory and any of the blocking variables (Age, Sex, and Island of Origin).
+
+The P-Value of each treatment and blocking variable was greater than 0.4, indicating no significance in predicting the model, which corresponds with R2 = 0.017. This suggests that the model has minimal predictive qualities regarding the Vocabulary Memory Test. However, the errors were approximately normally distributed and displayed homoscedasticity, indicating that the model was correctly chosen, but the predictors were not significant.
+
+The boxplots confirmed this analysis, showing that the median difference between the post-tests and pre-tests of each treatment and blocking variable remained roughly 0. This means there was no change in vocabulary test scores before and after nicotine administration, regardless of the treatment. Similarly, the blocking variables (Age, Sex, and Island of Origin) did not affect the difference in test scores.
+
+There were several limitations to the experimental design that could be improved upon in follow-up studies. One primary concern was the type of memory test used, which may not fully capture the potential effects of nicotine on short-term memory. While the study focused on immediate recall, other aspects of memory or different types of cognitive functions could also be affected by nicotine. The study did not account for potential variations in nicotine metabolism among participants, which could influence the results. Future research should consider using a broader range of cognitive tests and possibly incorporating biomarkers to track nicotine levels in the body. Controlling for the time of day when tests are administered could help reduce variability, as cognitive performance can fluctuate throughout the day. By addressing these limitations, future studies can build on the findings of this research and contribute to a more nuanced understanding of nicotine's effects on short-term memory.
+
+
+### 7 References
+
+
+1) “What Is the Scope of Tobacco, Nicotine, and e-Cigarette Use in the United States?” National Institutes of Health, U.S. Department of Health and Human Services, 14 Dec. 2023, nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/what-scope-tobacco-use-its-co st-to-society.
+
+2) V. Kumari, J.A. Gray, D.H. ffytche, M.T. Mitterschiffthaler, M. Das, E. Zachariah, ..., T. Sharma Cognitive effects of nicotine in humans: an fMRI study Neuroimage, 19 (3) (2003), pp. 1002-1013
+
+3) DunneMP,MacdonaldD,HartleyLR.The effects of nicotine upon memory and problem solving performance. Physiol Behav. 1986;37(6):849-54. PMID: 3786479.
+
+4) “How Memory Works.” Derek Bok Center, Harvard University, bokcenter.harvard.edu/how-memory-works#:~:text=It%20is%20an%20integral%20part,and%20behavi or%20within%20the%20present. Accessed 15 June 2024.
+
+5) Taghavi,Sahar,etal.“Nicotine Content of Domestic Cigarettes, Imported Cigarettes and Pipe Tobacco in Iran.” Addiction & Health, U.S. National Library of Medicine, 2012, www.ncbi.nlm.nih.gov/pmc/articles/PMC3905555/.
+
+6) “The Facts about Nicotine.” PMI, www.pmi.com/our-science/tobacco-harm-reduction/the-facts-about-nicotine#:~:text=Nicotine%20can%2 0be%20absorbed%20into,in%2010%20to%2020%20seconds. Accessed 15 June 2024.
+
+7) “How to Use Nicotine Lozenges.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 12 Sept. 2023, www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking- medicines/how-to-use-the-nicotine-lozenge.html#:~:text=To%20use%20properly%2C%20put%20the,yo ur%20mouth%20to%20the%20other.

@@ -1,0 +1,26 @@
+---
+title: Relevant Courses
+toc: false
+---
+
+# Statistics Courses
+### Stats 10 - Statistical Reasoning
+### Stats 20 - Statistical Programming with R
+
+### Stats 100A - Introduction to Probability
+### Stats 100B - Mathematical Statistics
+### Stats 100C - Linear Models
+
+### Stats 101A - Data Analysis and Regression
+### Stats 101B - Design and Analysis of Experiment
+### Stats 101C - Statistical Models and Data Mining
+
+### Stats 102A - Computational Statistics with R
+### Stats 102B - Optimization for Statistics
+### Stats 102C - Monte Carlo Methods
+
+### Stats 140XP - Practice of Statistical Consulting
+### Stats 141XP - Practice of Statistical Consulting
+
+### Stats C155 - Applied Sampling
+### Stats C173 - Applied Geostatistics

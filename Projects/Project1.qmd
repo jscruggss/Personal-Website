@@ -1,15 +1,73 @@
 ---
 title: Investigation of US Strikes in Yemen
 toc: false
-format: html
+authors: Jason Scruggs, Aditya Bharath, Dave Le, Angelo Desiderio, Anthony Ko
+format: pdf
 image: images/Yemen.jpg
 ---
 
-## [Investigating U.S. Strikes in Yemen and Their Civilian Impact](USStrikes.pdf)
+### 1 Abstract
 
-We conducted this research to understand the civilian impact of U.S. military strikes in Yemen, driven by the need to quantify harm and assess trends in targeting precision. Using data from 2009 to 2019, we analyzed 324 recorded incidents, focusing on civilian death tolls, strike classifications ("confirmed" vs. "possible"), and geographic patterns.
+This report examines the civilian impact of U.S. strikes in Yemen, focusing on data from 324 instances and 528 total strikes conducted primarily between 2009 and 2019. The study leverages extensive data analysis, including hypothesis testing and exploratory data analysis, to explore trends in civilian casualties, regional disparities in impact, and the lethality of confirmed versus possible strikes. Key findings highlight significant civilian harm, with approximately 15,000 deaths reported during the period, concentrated in contested regions like Abyan, a critical hub for resources and supply routes [1]. The analysis also identifies temporal patterns, revealing higher lethality in early strikes and regional variance in casualty numbers. This report highlights the negative externalities of the war in Yemen.
 
-Our methods included exploratory data analysis, hypothesis testing, and geospatial analysis. Key findings showed that strikes earlier in the decade were significantly more lethal, with 69% of injuries and 54% of deaths occurring by 2012. "Possible" strikes had greater variability in civilian casualties, raising transparency concerns. Regions like Abyan, rich in resources, saw higher casualty rates, while urban areas like Sanaa were less affected.
+### 2 Introduction
 
-This research underscores the ethical challenges of military interventions and the urgent need for precise targeting and transparent reporting to minimize civilian harm.
+The conflict in Yemen has not only devastated the economy and infrastructure of the country, but has also resulted in one of the most severe humanitarian crises the world has seen. With more than 15,000 civilian deaths and millions in need of aid, the human toll of this conflict demands a critical examination of the factors that contribute to the devastation. One such factor has been the US led strikes as part of the counter-terrorism efforts against Al-Qaeda, ISIS, and Houthi’s. Although they have helped curb terrorism, strikes have also caused massive damage to the country’s citizens, leaving countless dead, injured, and in dire need of help.
 
+![Map of Yemen](yemenmap1.png)
+
+The strikes, primarily conducted between 2009 and 2019, have dispropor-
+tionately affected areas such as Abyan and Zinjibar, regions critical for Yemen’s oil and gas supply. While military actions aim to eliminate terrorist threats, the high civilian death toll underscores the devastating human cost of these operations. The data collected on over 500 U.S. strikes reveals a troubling pattern, with early strikes being particularly lethal. This report will analyze the civilian impact of these strikes, focusing on the death toll, the geographic spread of casualties, and the temporal trends in the conflict. By exploring these factors, we aim to offer a clearer understanding of the long-term consequences of such military interventions on Yemen’s population.
+
+### 3 Data
+
+The dimensions of the original dataset are 324 rows x 18 columns. The 324 rows count each unique strike ID, with a total of 528 strikes. Below is a table with all listed variables:
+
+![](Yemenvariables.png)
+
+DroneStrike and AirOperation are dummy variables with either 0/1 values.
+The variables listed as minimum and maximum provide an overarching range of possible kills/injuries since wartime toll counting is difficult. Below is a screenshot of part of the dataset.
+
+![Snapshot of the Data](yemendatasnapshot.png)
+
+### 4 Methodology
+
+1. There were no missing values in our dataset, however there was one year mislabeled as 2002 which required deletion.
+2. For variables like deaths and injuries which had a minimum and a maximum, we took the arithmetic mean to get a singular value for analysis.
+3. Our focus for the research questions was civilian deaths.
+4. For research questions, we used a combination of R, Tableau, and Python for geographical data analysis.
+
+### 5 Research Questions and Findings
+
+## 5.1 Where did the attacks occur?
+
+We conducted an analysis of the attack locations for the major provinces in Yemen. Our findings were concurrent with historical context about the war.
+
+1. The province of Abyan and it’s capital city of Zinjibar has been a highly contested territory over the years. Abyan serves as a key supply route for oil and gas, which makes it an appealing region for either party to control. Additionally, it is also very natural resource rich. In this region, there is also a constant power vacuum created by the ever-changing local government.
+
+![Map of Yemen](yemenmap2.png)
+
+2. Sanaa is the largest city (and capital) in Yemen with almost 2 million residents is Sanna but has the lowest amount of civilian casualties. The Houthis have fortified the city, making it a strategic stronghold. Although Sanaa has been targeted by airstrikes, its status as a key base for the Houthis may have resulted in more calculated attacks to avoid excessive civilian casualties. Additionally, there is the possibiility that being the capital city, it received better aid and attention compared to other regions.
+
+![Civilian deaths by region and year](yemenheatmap.png)
+
+## 5.2 When did the damage occur
+
+By 2012, the majority of injuries occurred (69%) and a similar trend was observed in civilian deaths (54%). However, attacks took the longest to accumulate, reaching only 35%. Our data suggest that early strikes were significantly more lethal. This is potentially due to the ebb and flow of the war, along actions taken by the international community to slow down the war.
+
+![Cumulative density timeline of war casualties](yementimeline.png)
+
+## 5.3 Does the type of attack make a difference in injuries and deaths?
+
+Non-airstrike attacks averaged more civilian deaths, but were heavily rightskewed. We conducted a two-sample t-test to determine whether the mean injuries and deaths of civilians were impacted based on the type of attack. The test yielded a p-value > 0.05 and showed no significant difference in deaths between airstrikes and non-airstrikes. It is good to note that cruise missile attacks caused the most injuries and deaths per incident as well as drone strikes being a common feature across various attack types, showing a possible dominance/preference in air-based operations.
+
+![Airstrike vs Non-Airstrike Death Tally](yemenoperation.png)
+
+## 5.4 Does "Confirmed" or "Possible" Classification increase variance of the kill range?
+
+Interested on whether the ”Confirmed” and ”Possible” classifications had a difference in the variance of the kill range, we performed an F-test to test the variances between the two groups. The null hypothesis for this test assumes that the variances in the range of the death counts in these two groups are equal, while the alternative hypothesis posits that the variances differ. The range of deaths was calculated using the maximum minus the minimum deaths for each recorded attack. The test yielded an F-statistic of 0.1348 and a corresponding p-value of 2.2e^16, which indicated that there is sufficient statistical evidence to reject the null hypothesis. The observed difference in variances between the ”confirmed” and ”possible” classifications should be attributed to an inherent difference in the variability of death counts between the two groups instead of random variation.
+
+
+### 6 Conclusion
+
+Our analysis revealed that U.S. strikes that were carried out earlier in the decade were statistically more deadly for civilians, despite not being the primary targets of conflict. Furthermore, the focus of the strikes was on capturing land for the interested parties and gaining power, which in this case was Al-Qaeda. Deeper analysis and additional data would be required to uncover potential motives.
