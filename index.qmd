@@ -2,7 +2,7 @@
 title: "Jason Scruggs"
 about:
   template: jolla
-  image: IMG_8140.jpg
+  image: amstyheadshot.JPG
   links:
     - icon: linkedin
       text: Linkedin

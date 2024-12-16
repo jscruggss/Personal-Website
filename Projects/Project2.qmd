@@ -7,7 +7,6 @@ image: images/Cigarette.jpeg
 ---
 
 
-
 ### Abstract
 
 The United States is seeing a resurgence in nicotine use in the last decade. Millions of Americans daily suffer from nicotine addictions that can have potentially unforeseen effects on memory. The study of its effects on short term memory could help those struggling with the addition better understand the side effects involved with continued use. We propose that nicotine could have an effect on immediate recall and attempt to study this effect using a randomized complete block design and a one-way ANOVA for testing significance. We used a “pseudo” random sample of Islanders to make our conclusions as we can not draw a fully random sample of our Islanders. Our study determined that there was no significant effect of nicotine on immediate recall and therefore more studies would have to be completed to fully understand the effects of nicotine on memory.
