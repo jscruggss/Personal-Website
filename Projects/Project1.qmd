@@ -3,6 +3,7 @@ title: Investigation of US Strikes in Yemen
 toc: false
 authors: Jason Scruggs, Aditya Bharath, Dave Le, Angelo Desiderio, Anthony Ko
 format: pdf
+date: December 12, 2024
 image: images/Yemen.jpg
 ---
 

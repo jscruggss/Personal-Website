@@ -3,24 +3,63 @@ title: Relevant Courses
 toc: false
 ---
 
-# Statistics Courses
 ### Stats 10 - Statistical Reasoning
+
+Introduction to statistical thinking and understanding, including strengths and limitations of basic experimental designs, graphical and numerical summaries of data, inference, regression as descriptive tool.
+
 ### Stats 20 - Statistical Programming with R
 
+Designed to prepare students for upper-division work in statistics. Introduction to use of R, including data management, simple programming, and statistical graphics in R.
+
 ### Stats 100A - Introduction to Probability
+
+Probability distributions, random variables, vectors, and expectation.
+
 ### Stats 100B - Mathematical Statistics
+
+Survey sampling, estimation, testing, data summary, one- and two-sample problems.
+
 ### Stats 100C - Linear Models
 
+Theory of linear models, with emphasis on matrix approach to linear regression. Topics include model fitting, extra sums of squares principle, testing general linear hypothesis in regression, inference procedures, Gauss/Markov theorem, examination of residuals, principle component regression, stepwise procedures.
+
+
 ### Stats 101A - Data Analysis and Regression
+
+Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence. 
+
 ### Stats 101B - Design and Analysis of Experiment
+
+Fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.
+
 ### Stats 101C - Statistical Models and Data Mining
 
+Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.
+
+
+
 ### Stats 102A - Computational Statistics with R
+
+Introduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping. Covers intermediate to advanced programming with R.
+
 ### Stats 102B - Optimization for Statistics
+
+Introduction to computational methods and optimization useful for statisticians. Use of computer programming to solve statistical problems. Topics include vector/matrix computation, multivariate normal distribution, principal component analysis, clustering analysis, gradient-based optimization, EM algorithm for missing data, and dynamic programming. 
+
 ### Stats 102C - Monte Carlo Methods
 
-### Stats 140XP - Practice of Statistical Consulting
-### Stats 141XP - Practice of Statistical Consulting
+Introduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms. Extensions as simulated tempering. Theoretical understanding of methods and their implementation in concrete computational problems.
+
+### Stats 140XP & 141XP - Practice of Statistical Consulting
+
+Opportunity to solve real data analysis problems for real community-based or campus-based clients. Students work in small groups with faculty member and client to frame client's question in statistical terms, create statistical model, analyze data, and report results. Weekly meetings in classroom setting to study basic consulting skills, share experiences, exchange ideas, and make reports. On-site visits as necessary.
+
+
 
 ### Stats C155 - Applied Sampling
+
+Selected theories for quantification of psychological, educational, social, and behavioral science data. Classical test, factor analysis, generalizability, item response, optimal scaling, ordinal measurement, computer-adaptive, and related theories. Construction of tests and measures and their reliability, validity, and bias.
+
 ### Stats C173 - Applied Geostatistics
+
+Geostatistics can be applied to many problems in other disciplines such as hydrology, traffic, air and water pollution, epidemiology, economics, geography, waste management, forestry, oceanography, meteorology, and agriculture and, in general, to every problem where data are observed at geographic locations. Acquisition of knowledge from different areas that can be used to analyze real spatial data problems and to connect geostatistics with geographic information systems (GIS).
